@@ -46,8 +46,8 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/duskcipher/toolkit.git
-   cd toolkit
+   git clone https://github.com/duskcipher/pro-encShell.git
+   cd pro-encShell
    ```
 
 2. **Run the installer**:
