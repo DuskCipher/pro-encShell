@@ -1,0 +1,15 @@
+{
+  "version": "3.0",
+  "author": "Apri",
+  "community": "DuskCipher",
+  "theme": "dark",
+  "auto_backup": true,
+  "encryption_method": "advanced",
+  "log_level": "info",
+  "created": "2024-01-01T00:00:00.000Z",
+  "stats": {
+    "files_encrypted": 1,
+    "files_decrypted": 1,
+    "total_runs": 14
+  }
+}
