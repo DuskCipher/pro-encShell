@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "bash-obfuscate": "^1.2.1"
+  },
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "[![Version](https://img.shields.io/badge/version-2.0-blue.svg)](https://github.com/uch-2009/encrypt-tools) [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE) [![Bash](https://img.shields.io/badge/bash-4.0%2B-orange.svg)](https://www.gnu.org/software/bash/) [![Python](https://img.shields.io/badge/python-3.6%2B-yellow.svg)](https://www.python.org/)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
